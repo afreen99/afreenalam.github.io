@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "ePortfolio/about.html",
+    "href": "ePortfolio/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "ePortfolio/index.html",
+    "href": "ePortfolio/index.html",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data scientist, currently pursuing my Masters in Business Analytics from BU. I bring over three years of experience across financial services, healthcare and retail use cases, working on projects from predictive modeling and customer behavior analysis, to building NLP and ML systems supporting real business decisions."
+  },
+  {
+    "objectID": "ePortfolio/index.html#about-me",
+    "href": "ePortfolio/index.html#about-me",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data scientist, currently pursuing my Masters in Business Analytics from BU. I bring over three years of experience across financial services, healthcare and retail use cases, working on projects from predictive modeling and customer behavior analysis, to building NLP and ML systems supporting real business decisions."
+  },
+  {
+    "objectID": "ePortfolio/index.html#skills",
+    "href": "ePortfolio/index.html#skills",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming\nPython\nR\nSQL"
+  }
+]

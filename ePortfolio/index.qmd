@@ -6,6 +6,12 @@ date: "05-21-2026"
 ## About Me
 I am a data scientist, currently pursuing my Masters in Business Analytics from BU. I bring over three years of experience across financial services, healthcare and retail use cases, working on projects from predictive modeling and customer behavior analysis, to building  NLP and ML systems supporting real business decisions.
 
+## Education
+- Boston University
+    - M.S. Applied Business Analytics
+
+- National University of Singapore
+    - B.Sc. Data Science and Analytics
 
 ## Skills
 - Programming

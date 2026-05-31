@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to Afreen’s Portfolio",
@@ -26,12 +33,5 @@
     "title": "Welcome to Afreen’s Portfolio",
     "section": "Skills",
     "text": "Skills\n\nProgramming\nPython\nR\nSQL"
-  },
-  {
-    "objectID": "ePortfolio/about.html",
-    "href": "ePortfolio/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]

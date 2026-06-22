@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "",
-    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "",
-    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
-  },
-  {
-    "objectID": "about.html#technical-skills",
-    "href": "about.html#technical-skills",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nLLM & Generative AI: LangChain, Hugging Face Transformers, Reranker, OpenAI API, GitHub Models API, FAISS, RAGAS\nMachine Learning Frameworks: PyTorch, Scikit-learn, XGBoost\nProgramming Languages: Python, SQL, R\nVisualization Tools: Tableau, Power BI, Plotly, Matplotlib, Google Analytics"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nTimeline\n\n\n\n\nM.S. Applied Business Analytics\nBoston University\nExpected Dec 2026\n\n\nB.Sc. (Honours) Data Science and Analytics\nNational University of Singapore\nMay 2022"
-  },
-  {
     "objectID": "ePortfolio/projects.html",
     "href": "ePortfolio/projects.html",
     "title": "Welcome to Afreen’s Portfolio",
@@ -54,5 +26,33 @@
     "title": "Welcome to Afreen’s Portfolio",
     "section": "",
     "text": "Data Analyst Co-op | Boston, MA | Jun 2026 – Present\n\nBuild and optimize Tableau dashboards, conduct ad hoc analytics, and design ETL processes.\nImprove data reliability through rigorous data validation and root-cause analysis of data quality issues.\n\n\n\n\nResearch Assistant (ShieldAI) | Boston, MA | Jan 2026 – Present\n\nLeading a collaboration with 3 professors to evaluate over 20 explainable-AI (XAI) and risk mitigation tools against enterprise AI risks.\nCombining deep literature reviews with hands-on technical testing to drive a scientific manuscript on AI risk management frameworks.\n\n\n\n\nData Analyst | Singapore | Oct 2023 – Apr 2025\n\nGenerative AI: Prototyped an internal RAG system using LangChain, FAISS, and Qwen2.5-1.5b to parse 100+ bank annual reports; benchmarked text-splitters via DeepEval, improving top-5 retrieval precision by 35% and cutting analyst review time by 45%.\nData Privacy & Engineering: Built a Python synthetic data pipeline using Faker from a 10k cross-customer sample to generate 50k+ privacy-compliant records, preventing data leaks and preserving client trust.\nBusiness Intelligence: Developed an interactive Tableau dashboard segmenting 12K+ loan accounts by behavior, surfacing trend alerts for relationship managers and cutting underutilized exposure by 20%.\nMentorship: Onboarded, coached, and mentored an accelerated intern whose final executive project presentation ranked in the top 5%, resulting in a full-time offer.\n\nDigital Channels and Data Analytics Graduate | Singapore | Sep 2022 – Oct 2023\n\nPredictive Modeling: Prototyped an XGBoost cash-balance forecasting model (14% MAPE) for a treasurer-facing dashboard, enabling significant working capital optimization per platinum client by reducing idle cash buffers.\nProduct Analytics: Analyzed Google Analytics event-level data using funnel analysis to quantify user drop-offs, informing UX changes that improved user journey completion by 48%.\nNatural Language Processing: Engineered an NLP solution (n-grams, frequency analysis) on 10K+ mobile banking feedback records to isolate pain points, prioritizing fixes that successfully slashed negative sentiment.\n\n\n\n\nData Science Intern | Singapore | Dec 2021 – May 2022\n\nLed a Bland-Altman statistical analysis of physiological time-series data from 100k+ patients, validating clinical-grade consistency between wearable sensors and clinical reference signals.\nEngineered and adapted a PyTorch CNN trained on 2-second ECG chunks from 105 signals across 290 patients to predict waveform indices for real-time irregular arrhythmia detection."
+  },
+  {
+    "objectID": "ePortfolio/about.html",
+    "href": "ePortfolio/about.html",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
+  },
+  {
+    "objectID": "ePortfolio/about.html#about-me",
+    "href": "ePortfolio/about.html#about-me",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
+  },
+  {
+    "objectID": "ePortfolio/about.html#technical-skills",
+    "href": "ePortfolio/about.html#technical-skills",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLLM & Generative AI: LangChain, Hugging Face Transformers, Reranker, OpenAI API, GitHub Models API, FAISS, RAGAS\nMachine Learning Frameworks: PyTorch, Scikit-learn, XGBoost\nProgramming Languages: Python, SQL, R\nVisualization Tools: Tableau, Power BI, Plotly, Matplotlib, Google Analytics"
+  },
+  {
+    "objectID": "ePortfolio/about.html#education",
+    "href": "ePortfolio/about.html#education",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nTimeline\n\n\n\n\nM.S. Applied Business Analytics\nBoston University\nExpected Dec 2026\n\n\nB.Sc. (Honours) Data Science and Analytics\nNational University of Singapore\nMay 2022"
   }
 ]

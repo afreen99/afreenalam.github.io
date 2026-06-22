@@ -1,5 +1,29 @@
 ---
-title: "About"
+title: "Welcome to Afreen's Portfolio"
+author: "Afreen Alam"
+date: "05-21-2026"
 ---
 
-About this site
+## About Me
+
+I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions.
+
+---
+
+## Technical Skills
+
+*   **LLM & Generative AI:** LangChain, Hugging Face Transformers, Reranker, OpenAI API, GitHub Models API, FAISS, RAGAS
+*   **Machine Learning Frameworks:** PyTorch, Scikit-learn, XGBoost
+*   **Programming Languages:** Python, SQL, R
+*   **Visualization Tools:** Tableau, Power BI, Plotly, Matplotlib, Google Analytics
+
+---
+
+## Education
+
+| Degree | Institution | Timeline |
+| :--- | :--- | :--- |
+| **M.S. Applied Business Analytics** | Boston University | Expected Dec 2026 |
+| **B.Sc. (Honours) Data Science and Analytics** | National University of Singapore | May 2022 |
+
+---

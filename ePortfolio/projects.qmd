@@ -1,0 +1,19 @@
+---
+title: "Welcome to Afreen's Portfolio"
+author: "Afreen Alam"
+date: "05-21-2026"
+---
+
+## Featured Projects
+
+### Section-Scoped RAG System for SEC 10-K Filings
+*Jan 2026 – May 2026*
+
+*   Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline optimized for parsing financial documents using FAISS, LangChain, RAGAS, and the OpenAI API.
+*   Leveraged advanced NLP, transformer embeddings, and semantic search to programmatically extract AI strategies and risk insights from 7,700+ financial reports across 725 companies.
+
+### Smart Home IoT Data Science Pipeline
+*Sep 2025 – Dec 2025*
+
+*   Developed a predictive machine learning pipeline with SQL-based feature engineering targeted at device-failure prediction.
+*   Optimized classification models via stratified cross-validation and hyperparameter tuning (achieving a peak AUC-ROC of 0.82) and deployed an interactive Plotly dashboard to display operational insights.

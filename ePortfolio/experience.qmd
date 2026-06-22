@@ -1,0 +1,39 @@
+---
+title: "Welcome to Afreen's Portfolio"
+author: "Afreen Alam"
+date: "05-21-2026"
+---
+
+## Work Experience
+
+### Massachusetts General Hospital (Home Base)
+**Data Analyst Co-op** | *Boston, MA* | *Jun 2026 – Present*
+
+*   Build and optimize Tableau dashboards, conduct ad hoc analytics, and design ETL processes.
+*   Improve data reliability through rigorous data validation and root-cause analysis of data quality issues.
+
+### Boston University
+**Research Assistant (ShieldAI)** | *Boston, MA* | *Jan 2026 – Present*
+
+*   Leading a collaboration with 3 professors to evaluate over 20 explainable-AI (XAI) and risk mitigation tools against enterprise AI risks.
+*   Combining deep literature reviews with hands-on technical testing to drive a scientific manuscript on AI risk management frameworks.
+
+### Standard Chartered Bank
+**Data Analyst** | *Singapore* | *Oct 2023 – Apr 2025*
+
+*   **Generative AI:** Prototyped an internal RAG system using LangChain, FAISS, and Qwen2.5-1.5b to parse 100+ bank annual reports; benchmarked text-splitters via DeepEval, improving top-5 retrieval precision by 35% and cutting analyst review time by 45%.
+*   **Data Privacy & Engineering:** Built a Python synthetic data pipeline using Faker from a 10k cross-customer sample to generate 50k+ privacy-compliant records, preventing data leaks and preserving client trust.
+*   **Business Intelligence:** Developed an interactive Tableau dashboard segmenting 12K+ loan accounts by behavior, surfacing trend alerts for relationship managers and cutting underutilized exposure by 20%.
+*   **Mentorship:** Onboarded, coached, and mentored an accelerated intern whose final executive project presentation ranked in the top 5%, resulting in a full-time offer.
+
+**Digital Channels and Data Analytics Graduate** | *Singapore* | *Sep 2022 – Oct 2023*
+
+*   **Predictive Modeling:** Prototyped an XGBoost cash-balance forecasting model (14% MAPE) for a treasurer-facing dashboard, enabling significant working capital optimization per platinum client by reducing idle cash buffers.
+*   **Product Analytics:** Analyzed Google Analytics event-level data using funnel analysis to quantify user drop-offs, informing UX changes that improved user journey completion by 48%.
+*   **Natural Language Processing:** Engineered an NLP solution (n-grams, frequency analysis) on 10K+ mobile banking feedback records to isolate pain points, prioritizing fixes that successfully slashed negative sentiment.
+
+### Biofourmis
+**Data Science Intern** | *Singapore* | *Dec 2021 – May 2022*
+
+*   Led a Bland-Altman statistical analysis of physiological time-series data from 100k+ patients, validating clinical-grade consistency between wearable sensors and clinical reference signals.
+*   Engineered and adapted a PyTorch CNN trained on 2-second ECG chunks from 105 signals across 290 patients to predict waveform indices for real-time irregular arrhythmia detection.

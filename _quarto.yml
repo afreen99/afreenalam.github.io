@@ -11,11 +11,15 @@ website:
         text: My Projects
       - href: experience.qmd
         text: Work Experience
+      - text: CV
+        href: cv.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme:
-      - cosmo
+      - cerulean
       - brand
     css: styles.css
     toc: true

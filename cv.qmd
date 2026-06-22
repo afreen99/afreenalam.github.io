@@ -1,0 +1,25 @@
+---
+title: "Welcome to Afreen's Portfolio"
+author: "Afreen Alam"
+date: "05-21-2026"
+---
+
+## Professional Summary
+
+I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions.
+
+---
+
+## Download CV
+
+You can view or download the full copy of my CV by clicking the link below:
+
+### [📥 Download Afreen Alam's CV (PDF)](Afreen_Alam_02-12-2026.pdf)
+
+---
+
+## Experience Highlight
+
+*   **Generative AI & LLMs:** Built section-scoped RAG pipelines for SEC 10-K filings and bank annual reports using LangChain, FAISS, and Qwen, improving retrieval precision by 35%.
+*   **Predictive Analytics:** Engineered an XGBoost cash-balance forecasting model resulting in a 43% reduction in idle cash buffers for platinum corporate clients.
+*   **Data Governance & Risk:** Collaborating with university faculty to evaluate over 20 explainable-AI (XAI) and risk mitigation tools against enterprise AI vulnerabilities.

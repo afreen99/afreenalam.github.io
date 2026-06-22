@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "",
+    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLLM & Generative AI: LangChain, Hugging Face Transformers, Reranker, OpenAI API, GitHub Models API, FAISS, RAGAS\nMachine Learning Frameworks: PyTorch, Scikit-learn, XGBoost\nProgramming Languages: Python, SQL, R\nVisualization Tools: Tableau, Power BI, Plotly, Matplotlib, Google Analytics"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Welcome to Afreen’s Portfolio",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nTimeline\n\n\n\n\nM.S. Applied Business Analytics\nBoston University\nExpected Dec 2026\n\n\nB.Sc. (Honours) Data Science and Analytics\nNational University of Singapore\nMay 2022"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to Afreen’s Portfolio",
@@ -12,20 +40,6 @@
     "title": "Welcome to Afreen’s Portfolio",
     "section": "",
     "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University[cite: 1]. I bring over three years of industry experience across financial services, healthcare, and digital analytics[cite: 1]. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions[cite: 1]."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "Skills",
-    "text": "Skills\n\nProgramming\nPython\nR\nSQL"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "",
-    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
   },
   {
     "objectID": "index.html#technical-skills",
@@ -54,27 +68,6 @@
     "title": "Welcome to Afreen’s Portfolio",
     "section": "Featured Projects",
     "text": "Featured Projects\n\nSection-Scoped RAG System for SEC 10-K Filings\nJan 2026 – May 2026[cite: 1] * Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline optimized for parsing financial documents using FAISS, LangChain, RAGAS, and the OpenAI API[cite: 1]. * Leveraged advanced NLP, transformer embeddings, and semantic search to programmatically extract AI strategies and risk insights from 7,700+ financial reports across 725 companies[cite: 1].\n\n\nSmart Home IoT Data Science Pipeline\nSep 2025 – Dec 2025[cite: 1] * Developed a predictive machine learning pipeline with SQL-based feature engineering targeted at device-failure prediction[cite: 1]. * Optimized classification models via stratified cross-validation and hyperparameter tuning (achieving a peak AUC-ROC of 0.82) and deployed an interactive Plotly dashboard to display operational insights[cite: 1]."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "",
-    "text": "I am a data professional currently pursuing my Master of Science in Applied Business Analytics at Boston University. I bring over three years of industry experience across financial services, healthcare, and digital analytics. My expertise spans building scalable Generative AI/RAG systems, deploying predictive machine learning architectures, and engineering end-to-end data pipelines that drive strategic business decisions."
-  },
-  {
-    "objectID": "about.html#technical-skills",
-    "href": "about.html#technical-skills",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nLLM & Generative AI: LangChain, Hugging Face Transformers, Reranker, OpenAI API, GitHub Models API, FAISS, RAGAS\nMachine Learning Frameworks: PyTorch, Scikit-learn, XGBoost\nProgramming Languages: Python, SQL, R\nVisualization Tools: Tableau, Power BI, Plotly, Matplotlib, Google Analytics"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Welcome to Afreen’s Portfolio",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nTimeline\n\n\n\n\nM.S. Applied Business Analytics\nBoston University\nExpected Dec 2026\n\n\nB.Sc. (Honours) Data Science and Analytics\nNational University of Singapore\nMay 2022"
   },
   {
     "objectID": "projects.html",
